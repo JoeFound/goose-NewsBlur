@@ -19,7 +19,7 @@
     "moment-timezone": "^0.5.31",
     "mongodb": "^3.6.3",
     "psl": "^1.8.0",
-    "qs": "^6.9.4",
+    "qs": "^6.11.2",
     "redis": "^3.1.2",
     "socket.io": "^3.1.1",
     "socket.io-client": "^3.1.1",
