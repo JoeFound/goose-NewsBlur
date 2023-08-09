@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "json-loader": "^0.5.7",
     "mkdirp": "^0.5.5",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.43",
     "mongodb": "^3.6.3",
     "psl": "^1.8.0",
     "qs": "^6.9.4",
